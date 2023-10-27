@@ -1,0 +1,2 @@
+# U2_crud_tbl_TICKET_5i
+ticket, LEER,CREAR,VISUALIZAR
